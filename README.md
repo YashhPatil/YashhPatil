@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashhPatil
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Creating Single Page Web Apps
+- 🌱 I’m currently learning and working on creating SPA Web Apps
 - 📫 How to reach me -> Email - yashhpatil@gmail.com
 
 <!---
