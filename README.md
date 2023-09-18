@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashhPatil
 - 👀 I’m a passionate Java developer. 
-- 🌱 Currently working web apps using Spring boot 
+- 🌱 Currently working on developing web apps using Spring boot 
 - 📫 How to reach me -> Email - yashhpatil@gmail.com
 
 <!---
